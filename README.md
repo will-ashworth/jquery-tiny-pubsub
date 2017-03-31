@@ -7,8 +7,8 @@ _(see the [original gist](https://gist.github.com/661855))_
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/cowboy/jquery-tiny-pubsub/master/dist/tiny-pubsub.min.js
-[max]: https://raw.github.com/cowboy/jquery-tiny-pubsub/master/dist/tiny-pubsub.js
+[min]: https://raw.githubusercontent.com/cowboy/jquery-tiny-pubsub/master/dist/ba-tiny-pubsub.min.js
+[max]: https://raw.githubusercontent.com/cowboy/jquery-tiny-pubsub/master/dist/ba-tiny-pubsub.js
 
 Example usage:
 
